@@ -1,0 +1,6 @@
+ZINC database
+VIRTUAL screening
+ChEMBL databases
+SMILES string format
+reinforcement learning
+https://www.udemy.com/course/deep-reinforcement-learning
