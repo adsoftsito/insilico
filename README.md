@@ -13,4 +13,4 @@
 
 # Recursos adicionales
 1. [Programacion paralela en CUDA](https://github.com/adsoftsito/insilico/blob/main/books/cuda_by_example.pdf)
-2. [Big Data con Spark con GPUs](https://github.com/adsoftsito/insilico/blob/main/books/nvidia_spark.pdf)
+2. [Big Data - Spark con GPUs](https://github.com/adsoftsito/insilico/blob/main/books/nvidia_spark.pdf)
