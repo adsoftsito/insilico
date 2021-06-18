@@ -10,6 +10,7 @@
 
 ## Lecturas
 1. Concepto de [Bioinformatica](http://www.ehu.eus/biofisica/juanma/bioinf/apuntes.htm#1)
+2. [Secuencias biologicas](http://www.ehu.eus/biofisica/juanma/bioinf/apuntes.htm#2)
 
 # Recursos adicionales
 1. [Programacion paralela en CUDA](https://github.com/adsoftsito/insilico/blob/main/books/cuda_by_example.pdf)
