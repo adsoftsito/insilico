@@ -31,7 +31,7 @@
 1. [Repaso de Calculo](https://www.coursera.org/learn/calculo-diferencial)
 2. [Revision de calculo para Optimizacion](http://personal.cimat.mx:8181/~mrivera/cursos/optimizacion/calculo_optimizacion/calculo_optimizacion.html)
 
-# Sesion 5 (Jul 30, 2021)
+# Sesion 6 (Jul 30, 2021)
 
 ## Actividades
 1. [Algoritmos de optimizacion de Descenso](http://personal.cimat.mx:8181/~mrivera/cursos/optimizacion/descenso_grad_estocastico/descenso_grad_estocastico.html)
