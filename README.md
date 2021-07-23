@@ -25,13 +25,16 @@
 1. [Broadcasting en numpy](http://personal.cimat.mx:8181/~mrivera/cursos/python/broadcasting/broadcasting.html)
 2. [Manejo de excepciones](http://personal.cimat.mx:8181/~mrivera/cursos/python/excepciones/excepciones.html)
 
-# Sesion 5 (Jul 16, 2021)
+# Sesion 5 (Jul 23, 2021)
 
 ## Actividades
 1. [Repaso de Calculo](https://www.coursera.org/learn/calculo-diferencial)
 2. [Revision de calculo para Optimizacion](http://personal.cimat.mx:8181/~mrivera/cursos/optimizacion/calculo_optimizacion/calculo_optimizacion.html)
 
+# Sesion 5 (Jul 30, 2021)
 
+## Actividades
+1. [Algoritmos de optimizacion de Descenso](http://personal.cimat.mx:8181/~mrivera/cursos/optimizacion/descenso_grad_estocastico/descenso_grad_estocastico.html)
 
 # Recursos adicionales
 1. [Programacion paralela en CUDA](https://github.com/adsoftsito/insilico/blob/main/books/cuda_by_example.pdf)
